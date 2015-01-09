@@ -1,2 +1,0 @@
-# macgurus.github.io
-Website

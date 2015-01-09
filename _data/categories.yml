@@ -1,0 +1,59 @@
+- slug: product-reviews
+  name: Product Reviews
+  
+- slug: bash-scripts
+  name: Bash Scripts
+  
+- slug: bug-fixes
+  name: bug-fixes
+
+- slug: casper-munki
+  name: casper-munki
+
+- slug: cloud-computing
+  name: cloud-computing
+
+- slug: cocoa-code
+  name: cocoa-code
+
+- slug: data-recovery
+  name: data-recovery
+
+- slug: dns-settings
+  name: dns-settings
+
+- slug: ipad
+  name: ipad
+
+- slug: leter-to-the-editor
+  name: leter-to-the-editor
+
+- slug: mail-server
+  name: mail-server
+
+- slug: microsoft-imaging
+  name: microsoft-imaging
+
+- slug: migration
+  name: migration
+
+- slug: osx-server-configuration
+  name: osx-server-configuration
+
+- slug: osx-system-administration
+  name: osx-system-administration
+
+- slug: product-reviews
+  name: product-reviews
+
+- slug: rants
+  name: rants
+
+  name: ssl-encryption
+  name: ssl-encryption
+
+- slug: web-server
+  name: web-server
+
+- slug: wiki-server
+  name: wiki-server

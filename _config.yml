@@ -1,0 +1,16 @@
+# Site settings
+title: Mac Gurus.
+email: jon@imamac.guru
+description: "This is an example of a site with a paginated blog main page."
+url: "http://www.imamac.guru"
+paginate: 6
+paginate_path: /blog/page/:num
+
+# Build settings
+markdown: kramdown
+highlighter: pygments
+permalink: /blog/:categories/:year/:month/:day/:title.html
+exclude: ["Gemfile", "Gemfile.lock", "README.md", 'sass', 'watch.sh', 'style.scss', 'bootstrap.scss'] # files to exclude
+
+gems:
+  - jekyll-sitemap
