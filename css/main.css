@@ -276,7 +276,7 @@ a:after {
    ========================================================================== */
 
 #headerwrap {
-	background: url(http://mgurus.jbd.netdna-cdn.com/img/header_bg.jpg) no-repeat center top;
+	background: url(http://mgurus.jbd.netdna-cdn.com/img/header_bg1.jpg) no-repeat center top;
 	margin-top: -50px;
 	padding-top:120px;
 	text-align:center;
@@ -440,12 +440,12 @@ a:after {
 
 /* Section Dividers Backgrounds */
 
-.divider1 {
-	background-image: url('http://mgurus.jbd.netdna-cdn.com/img/bg/divider1.jpg')
+.divider11 {
+	background-image: url('http://mgurus.jbd.netdna-cdn.com/img/bg/divider11.jpg')
 }
 
-.divider2 {
-	background-image: url('http://mgurus.jbd.netdna-cdn.com/img/bg/divider2.jpg')
+.divider21 {
+	background-image: url('http://mgurus.jbd.netdna-cdn.com/img/bg/divider21.jpg')
 }
 
 .divider3 {
@@ -458,11 +458,13 @@ a:after {
 }
 
 .divider6 {
-	background-image: url('http://mgurus.jbd.netdna-cdn.com/img/bg/divider7.jpg')
+	background-image: url('http://mgurus.jbd.netdna-cdn.com/img/bg/divider71.jpg')
 }
 
 
-
+.ok {
+	color: white;
+}
 /* ==========================================================================
    Services Section
    ========================================================================== */
