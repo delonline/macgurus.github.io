@@ -295,7 +295,9 @@ a:after {
     -o-background-size: cover;
     background-size: cover;
 }
+.ok {
 
+}
 #headerwrap h1 {
 	color:#ffffff;
 	margin-top: 90px;
