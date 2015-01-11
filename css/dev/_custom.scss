@@ -323,7 +323,7 @@ a:after {
 	margin-top: 90px;
 	padding-bottom: 30px;
 	letter-spacing: 5px;
-	font-size: 50px;
+	font-size: 70px;
 	text-align: center;
 	white-space: nowrap;
 }
@@ -685,5 +685,21 @@ a:after {
 	#headerwrap p {
 		font-size: 30px;
 		line-height: 38px;
+	}
+}
+
+@media only screen 
+and (min-device-width : 375px) 
+and (max-device-width : 667px) { /* STYLES GO HERE */
+	.headline9 {
+		color:#fff;
+		font-family : "HelveticaNeue", "Helvetica Neue", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif;
+		font-weight : 300;
+		margin-top: 90px;
+		padding-bottom: 30px;
+		letter-spacing: 0px;
+		font-size: 40px;
+		text-align: center;
+		white-space: nowrap;
 	}
 }
